@@ -1,0 +1,278 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.gridcontainer {
+    width: 100%;
+    height: auto; 
+    gap: 30px;
+    align-content: center;
+}
+.one {
+    background-image: url(./food\ 4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 560px;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+}     
+ul {
+    list-style: none;
+    display: flex;
+}
+li {
+    padding: 20px 30px;
+}
+.logo {
+    margin-right: 450px;
+}
+h1,.third {
+    white-space: pre;
+    color: white;
+    margin-left: 730px;
+}
+h1 {
+    line-height: 1;
+    margin-top: 200px;
+    font-size: 75px;
+}
+.more {
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    font-size: 12px;
+    background-color: rgb(0, 0, 12);
+    margin-left: 770px;
+    margin-top: 40px;
+}
+.two {
+    background-color: rgb(0, 0, 12);
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+}
+.first {
+    font-size: 15px;
+    text-align: center;
+    color: white;
+}
+.second {
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    line-height: 2;
+    white-space: pre;
+    padding-top: 30px;
+}
+.fourth {
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    padding-top: 40px;
+}
+.three {
+    background-color:  rgb(0, 0, 12);
+}
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 31px;
+    padding-top: 100px;
+}
+.fifth {
+    width: 300px;
+    height: 250px;
+}
+.sixth {
+    width: 300px;
+    height: 250px;
+    padding-left: 50px;
+}
+.seventh {
+    width: 300px;
+    height: 250px;
+    padding-left: 50px;
+}
+.four {
+    padding-top: 60px;
+    padding-left: 140px;
+    line-height: 20px;
+}
+.eighth {
+    font-size: 23px;
+    color: rgb(255, 255, 0);
+    padding-left: 240px;
+    padding-top: 10px;
+    white-space: pre;  
+}
+.ninth {
+    font-size: 13px;
+    color: white;
+    padding-left: 140px;
+    padding-top: 8px;
+    white-space: pre;
+
+}
+.tenth {
+    font-size: 13px;
+    color: white;
+    padding-left: 215px;
+    padding-top: 8px;
+    white-space: pre;
+    padding-bottom: 60px;
+}
+.six {
+    background-color: black;
+    color: white;
+    box-shadow: -5px -5px 20px -10px black;
+}
+.eleventh {
+    white-space: pre;
+    font-size: 12px;
+    padding-top: 7px;
+    padding-left: 90px;
+}
+h4 {
+    padding-top: 60px;
+    font-size: 20px;
+    padding-left: 90px;
+}
+.twelveth {
+    font-size: 12px;
+    padding-top: 170px;
+    padding-left: 90px;
+    padding-bottom: 30px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: rgb(255, 255, 0);
+    transition: 0.5s ease-in-out;
+}
+video {
+    width: 100%;
+    padding-top: 70px;
+    height: 620px;
+    padding-bottom: 40px;
+}
+.seven {
+    background-color: rgb(0, 0, 12);
+    width: 100%;
+    text-align: center;
+}
+img {
+    transition-property: all;
+    transition-duration: 0.7s;
+    transition-delay: 0s;
+    transition-timing-function: ease-in-out;
+}
+img:hover {
+    transform: scale(1.1);
+}
+.eight {
+    background-color: rgb(0, 0, 12);
+    color: white;
+    width: 100%;
+    height: 400px;
+}
+.box input {
+    padding: 6px 30px;
+}
+.box {
+    width: 85%;
+    padding: 5px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 50px;
+}
+.box1 input {
+    padding: 6px 160px;
+    margin-top: 23px;
+}
+.box1 {
+    width: 85%;
+    padding: 5px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box2 {
+    width: 45%;
+    padding: 5px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.book {
+    padding: 8px 90px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+.buy {
+    padding: 8px 90px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+h5 {
+    font-size: 31px;
+    text-align: center;
+    padding-top: 60px;
+    white-space: pre;
+}
+input {
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-width: 0.0001px;
+}
+.nine{
+    color: white;
+    background-color: rgb(0, 0, 12);
+    height: 450px;
+}
+.thirteen {
+    width: 300px;
+    height: 250px;
+    padding-top: 50px;
+    padding-right: 295px;
+}
+h6 {
+    font-size: 31px;
+    text-align: center;
+    padding-top: 50px;
+    white-space: pre;
+}
+.fourteen {
+    color: white;
+    white-space: pre;
+    font-size: 14px;
+    line-height: 2;
+    text-align: center;
+    padding-right: 50px;
+    padding-top: 7px;
+}
+.image {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.line2 {
+    font-size: 60px;
+}
